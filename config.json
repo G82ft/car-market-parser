@@ -1,0 +1,45 @@
+{
+  "log level": "info",
+  "url": {
+    "region": "rossiya",
+    "type_of_vehicle": "cars",
+    "vendor": "vaz",
+    "model": "2101",
+    "age": "all"
+  },
+  "payload": {
+    "search_tag": [],
+    "color": [],
+    "sort": "",
+
+    "exchange_group": "",
+    "seller_group": "",
+    "owners_count_group": "",
+
+    "steering_wheel": "",
+    "transmission": "",
+
+    "price_from": "",
+    "price_to": "",
+    "year_from": "",
+    "year_to": "",
+    "km_age_from": "",
+    "km_age_to": "",
+    "displacement_from": "",
+    "displacement_to": "",
+    "power_from": "",
+    "power_to": "",
+    "acceleration_from": "",
+    "acceleration_to": "",
+    "fuel_rate_to": "",
+    "clearance_from": "",
+
+    "pts_status": "",
+
+    "with_warranty": false,
+    "online_view": false,
+    "has_image": true,
+    "has_video": false
+  },
+  "pages": 1
+}
